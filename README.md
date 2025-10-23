@@ -1,5 +1,9 @@
 # BudgetTracker
 
+**Author:** Wiktoria Sadowska  
+**Course:** Modelling and Data Science, Lodz University of Technology  
+
+
 A simple program to track income and expenses.
 
 ## Features
