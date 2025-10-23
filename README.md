@@ -1,6 +1,6 @@
 # BudgetTracker
 
-A simple program to trackk income and expenses.
+A simple program to track income and expenses.
 
 ## Features
 
